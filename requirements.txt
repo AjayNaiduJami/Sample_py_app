@@ -1,0 +1,6 @@
+pyhocon
+sqlalchemy
+bottle
+psycopg2
+alembic
+pytest
